@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libAlexCipherClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/uikit/libs/libAlexCipherClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
