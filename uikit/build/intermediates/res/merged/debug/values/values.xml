@@ -451,6 +451,7 @@
     <string name="repeat_send_has_blank">重 发</string>
     <string name="repeat_send_message">重发消息?</string>
     <string name="save">保存</string>
+    <string name="save_for_path">另存为</string>
     <string name="save_to_device">保存到手机</string>
     <string name="sdcard_not_enough_error">存储空间不足，无法保存此次多媒体消息</string>
     <string name="sdcard_not_enough_head_error">SD卡被拔出或存储空间不足，无法保存头像</string>
@@ -459,6 +460,7 @@
     <string name="search_join_team">搜索加入群组</string>
     <string name="send">发送</string>
     <string name="set_team_admin">设为管理员</string>
+    <string name="share_for_others">分享</string>
     <string name="start_camera_to_record_failed">启动摄像头录制视频失败</string>
     <string name="stop_fail_maybe_stopped">停止失败，可能已经停止</string>
     <string name="team_admin">管理员</string>

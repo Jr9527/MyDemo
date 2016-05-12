@@ -101,7 +101,6 @@ public class MainActivity extends TActionBarActivity {
         onInit();
     }
 
-
     @Override
     protected void onResume() {
         super.onResume();
@@ -110,7 +109,7 @@ public class MainActivity extends TActionBarActivity {
         HeadUtils.privateKey=spUtils.readRSAKeyString(DemoCache.getAccount());
     }
 
-    private void onInit() {
+    private void onInit(){
         // 加载主页面
         showMainFragment();
 

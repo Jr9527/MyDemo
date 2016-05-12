@@ -3,7 +3,7 @@ package rsa;
 /**
  * Created by Wall on 2016/3/23.
  * 各算法 及标识
- *
+ *可使用 枚举/
  *
  */
 public class Arithmetic {

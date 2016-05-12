@@ -258,7 +258,7 @@ public class LoginActivity extends TActionBarActivity implements OnKeyListener {
                 }
 
                 if(!is_havekey) {
-                    // 注册成功后根据账户生成密钥对 暂时先随机生成密钥对儿
+                    // 登陆成功后根据账户生成密钥对 暂时先随机生成密钥对儿
                     // 生成密钥对先保存到本地，然后根据账户上传密钥
                     //   DemoCache.setAccount(account); 登陆后有一个全局DemoCache类接收这个账户account？
                     Map<String, Object> map = SecretManageFactory.initRSAkey();
@@ -271,11 +271,6 @@ public class LoginActivity extends TActionBarActivity implements OnKeyListener {
                     initAlexandria.pki_put(Base64.decode(publickey));// 上传公钥
                     spUtils.saveboolean("is_havekey",true);
                 }
-
-
-
-
-
 
                 // 初始化消息提醒
                 NIMClient.toggleNotification(UserPreferences.getNotificationToggle());

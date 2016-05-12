@@ -4,16 +4,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_capture_stop_btn.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_add_friends.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_add_friends.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_new_message_notify.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_new_message_notify.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_holo.9.png",
@@ -24,64 +16,64 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_multiport.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_2.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_2.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_normal.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_normal.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_image_normal.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_image_normal.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_guess_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_guess_normal.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_left_snapchat.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_search_view_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\action_bar_search_view_icon.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_card_chat_icon_normal.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\business_card_chat_icon_normal.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_pressed.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_delete_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_1.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_1.png"
     },
     {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_58.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_58.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_ic_trans_fail.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_normal.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_delete_normal.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_ic_failed_small.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\g_ic_failed_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_female.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_female.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_pwd_lock_icon.png",
@@ -92,16 +84,20 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat_disable.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_left_snapchat_disable.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_50.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_50.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_owner_icon.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_owner_icon.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_57.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_my_computer.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_my_computer.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_50.png",
@@ -116,212 +112,12 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_light.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_icon.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\head_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nick_name_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\nick_name_icon.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_normal.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_file_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_light.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_normal.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_tip_normal.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_my_computer.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_my_computer.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\head_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_music_icon_play.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_music_icon_play.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_snapchat_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_snapchat_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_58.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_58.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\admin_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\admin_icon.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_normal.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_normal.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_left_snapchat.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_57.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_57.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_card_chat_icon_normal.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\business_card_chat_icon_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_g_ic_failed_small.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_g_ic_failed_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_message_notify.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\new_message_notify.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_58.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_58.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_right_snapchat_disable.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_right_snapchat_disable.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_ic_trans_fail.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_ic_trans_fail.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_video.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_record_video.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_checkbox_not_checked.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_checkbox_not_checked.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_normal.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_delete_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_multiport_detail.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_multiport_detail.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_dark.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_female.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_female.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_49.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_49.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat_disable.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_left_snapchat_disable.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_file_pressed.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_owner_icon.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_owner_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_57.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_57.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_my_computer.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_my_computer.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_avatar_group.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_avatar_group.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_voice_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_voice_normal.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_menu.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\main_menu.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_card_chat_icon_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\business_card_chat_icon_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_logo.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_logo.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
@@ -336,6 +132,10 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
     },
     {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_icon.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\head_icon.png"
+    },
+    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_light.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
     },
@@ -348,8 +148,12 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_cameras.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\facebook_128x128_32.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\facebook_128x128_32.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_normal.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_file_normal.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_admin_icon.png",
@@ -360,52 +164,36 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_image_default.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_normal.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_cameras_hover.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_cameras_hover.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_add_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_add_normal.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_owner_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_owner_icon.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_cameras_hover.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_cameras_hover.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_file_normal.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_light_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_disabled.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
@@ -416,44 +204,36 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rts_send.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_rts_send.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_loaction_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\btn_loaction_pressed.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\facebook_128x128_32.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\facebook_128x128_32.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\master_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\master_icon.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_admin_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_admin_icon.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_stat_notify_msg.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_stat_notify_msg.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_unchecked.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_unchecked.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_multiport_detail.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_multiport_detail.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_orignal_checked.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_orignal_checked.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_room_announce.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\chat_room_announce.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_location_bk.png",
@@ -464,40 +244,36 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_male.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_male.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_guess_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_guess_pressed.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
     },
     {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_add_friends.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_add_friends.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_64.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_64.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_start.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_record_start.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
@@ -508,16 +284,12 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_image_selected.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_image_default.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_image_default.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_unchecked.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_unchecked.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_unread_messages_bg.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\g_unread_messages_bg.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_normal.png",
@@ -528,32 +300,36 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
     },
     {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_pressed.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_tip_pressed.png"
+    },
+    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_pressed_holo.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_emotion.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_search_team.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_search_team.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_37.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_37.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_music_icon_play.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_music_icon_play.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_2.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_2.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
@@ -562,10 +338,6 @@
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard_pressed.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
@@ -582,166 +354,6 @@
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_search_dark_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_actionbar_search_dark_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_select_dot_avatar.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_select_dot_avatar.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_focused_holo.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_delete_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_delete_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_advanced_team.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_advanced_team.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\facebook_128x128_32.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\facebook_128x128_32.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_disabled.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_right_snapchat.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_right_snapchat.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_room_announce.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\chat_room_announce.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_go.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_male.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_male.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_guess_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_guess_pressed.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_loaction_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\btn_loaction_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_card_chat_icon_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\business_card_chat_icon_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_36.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_play_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_unread_messages_bg.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\g_unread_messages_bg.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_pressed.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_tip_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_search_team.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_search_team.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_music_icon_play.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_music_icon_play.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_72.png",
@@ -768,14 +380,6 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_contact_select_dot_avatar.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_unread_news_icon_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_unread_news_icon_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_white_back_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_actionbar_white_back_icon.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_message_notify.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\new_message_notify.png"
     },
@@ -784,20 +388,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_delete_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_1.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_1.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_white_back_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_actionbar_white_back_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_location_bk.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_location_bk.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_right_snapchat.png",
@@ -824,16 +416,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_multiport.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_multiport.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_64.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_64.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_capture_start_btn.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_capture_start_btn.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_disable.png",
@@ -844,28 +428,12 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_black_more_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\action_bar_black_more_icon.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_dark_logo_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\actionbar_dark_logo_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_plus.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_plus.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_light.9.png",
@@ -876,16 +444,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_go.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_image_selected.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_image_selected.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_video.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_record_video.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_ic_close_yellow_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\g_ic_close_yellow_pressed.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_holo_light.png",
@@ -900,32 +460,12 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_capture_stop_btn.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_capture_stop_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_light_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_normal.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_36.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rts_send.png",
@@ -940,16 +480,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\actionbar_dark_back_icon.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\master_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\master_icon.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_ic_close_yellow.png",
@@ -964,68 +496,20 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_black_more_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\action_bar_black_more_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_stat_notify_msg.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_stat_notify_msg.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\network_grade_1.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\network_grade_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_black_list.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_black_list.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_image_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_image_normal.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_ic_close_yellow_pressed.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\g_ic_close_yellow_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_account_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\user_account_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_left_snapchat.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_white_logo_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\actionbar_white_logo_icon.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_tip_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_49.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_49.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_account_icon.png",
@@ -1036,20 +520,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_add_normal.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_dark.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_delete_normal.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_delete_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_clear_normal.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
@@ -1064,22 +536,6 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_room_announce.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\chat_room_announce.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_verify_remind.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_verify_remind.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_avatar_group.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_avatar_group.png"
     },
@@ -1088,20 +544,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_disable.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_disable.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_moon_page_unselected.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_moon_page_unselected.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_white_logo_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\actionbar_white_logo_icon.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_2.png",
@@ -1120,28 +564,20 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat_disable.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_view_holder_left_snapchat_disable.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_video_play_icon.png"
     },
     {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_checkbox_not_checked.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_checkbox_not_checked.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
@@ -1156,32 +592,32 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_voice_normal.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_cameras.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_cameras.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_new_message_notify.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_new_message_notify.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_snapchat_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_snapchat_pressed.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_search_view_icon.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\welcome_bg.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_moon_page_unselected.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_moon_page_unselected.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_pwd_lock_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\user_pwd_lock_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_72.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\room_cover_72.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nick_name_icon.png",
@@ -1196,166 +632,6 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
     },
     {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_ic_trans_fail.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_ic_trans_fail.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_search_team.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_search_team.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_menu.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\main_menu.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_ic_close_yellow.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\g_ic_close_yellow.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_logo.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\about_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_dark.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_search.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_start.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_record_start.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_dark.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_search.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_moon_page_selected.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_moon_page_selected.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_icon_edit_delete.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_icon_edit_delete.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_male.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_male.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_checkbox_not_checked.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_checkbox_not_checked.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_guess_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_guess_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle_loading_grey.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\circle_loading_grey.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_holo_light.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_search_view_icon.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\action_bar_search_view_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_emotion.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_dark_back_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\actionbar_dark_back_icon.png"
-    },
-    {
-        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg.png",
-        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\welcome_bg.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_unread_messages_bg.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\g_unread_messages_bg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_delete_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_team_member_delete_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_delete_pressed.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
     },
@@ -1364,16 +640,8 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_normal.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\icon_delete_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
@@ -1388,14 +656,6 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_snapchat_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_pressed.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\message_plus_tip_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_search_dark_icon.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_actionbar_search_dark_icon.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_unread_news_icon_normal.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_message_unread_news_icon_normal.png"
     },
@@ -1404,52 +664,52 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_moon_page_selected.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_search.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_black_list.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\ic_black_list.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_logo.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\about_logo.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_start.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_record_start.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_g_ic_failed_small.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_g_ic_failed_small.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_female.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\nim_female.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\res\\drawable-xhdpi\\welcome_bg.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
-    },
-    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_light_holo.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
     },
     {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_holo_light.png",
@@ -1460,32 +720,24 @@
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\btn_loaction_pressed.png"
     },
     {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_icon_edit_delete.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_icon_edit_delete.png"
     },
     {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_dark.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_dark_holo.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+        "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\admin_icon.png",
         "source": "E:\\Work_pace\\Android\\nim_demo\\demo\\res\\drawable-xhdpi\\admin_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
-        "source": "C:\\Users\\Wall\\Desktop\\yun_demo\\3\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
     },
     {
         "merged": "E:\\Work_pace\\Android\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_pressed.png",
