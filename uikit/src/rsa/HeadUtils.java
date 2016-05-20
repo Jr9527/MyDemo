@@ -202,9 +202,9 @@ import java.util.Map;
 			byte[] cipherText=RSACoder.encryptByPublicKey(aeskeybyrom,publicKey);// 对端公钥
 			// 时间戳 8
 			byte[] time=getNowTime();
-			byte[] keybytime=Secret_Factory.produceAESkeybytime(time);
-			byte[] enc_aeskeybyrom=MyAES.aes_encrypt(aeskeybyrom,keybytime);
-			spUtils.saveByte(bytesToHexString(time),enc_aeskeybyrom);
+			byte[] keybytime=Secret_Factory.produceAESkeybytime(time);// 根据时间戳生成密钥
+			byte[] enc_aeskeybyrom=MyAES.aes_encrypt(aeskeybyrom,keybytime);// 将加密的密钥进行加密存储
+			spUtils.saveByte(bytesToHexString(time),enc_aeskeybyrom);// 储存密钥
 			// 预留byte 256
 			byte[] obligate=new byte[256];
 			// 将 签名和密钥等进行整合成 头部 776
@@ -225,7 +225,7 @@ import java.util.Map;
 	/**
 	 *************************************传入txt数据，进行分解头部和解密*****************************************************
 	 **/
-
+	// 本地解密
 	protected String getDecodeDatabylocal(String data){
 		try {
 			//进行进制转换
@@ -255,7 +255,7 @@ import java.util.Map;
 		}
 	}
 
-
+	// 对端解密
 	protected String getDecodeData(String data){
 		try {
 		//进行进制转换

@@ -89,7 +89,7 @@ public class SecretManageFactory {
             File f=(File)object;
             boolean dec_ok=false;
             byte[] bhead= headUtils.decryptFilebylocal(f);// 解密并获取到头部
-
+            // 本地解密没有做头部的判断，所以先设置false，后续进行改动
             return dec_ok;
         }else{
             // err
@@ -117,7 +117,6 @@ public class SecretManageFactory {
                   dec_ok= headUtils.verifyImg(datafile, sign);
             }else{
                 LogUtil.i("SecretManageFactory","--bhead is null");
-                dec_ok=true;// 点击查看自己发送的图片
             }
             return dec_ok;
         }else{

@@ -266,10 +266,10 @@ public class LoginActivity extends TActionBarActivity implements OnKeyListener {
                     String privatekey = (String) map.get(RSACoder.PRIVATE_KEY);
 
 
-                    spUtils.saveByte(account, Base64.decode(privatekey));
+                    spUtils.saveByte(account, Base64.decode(privatekey));// 以用户名为key
 
                     initAlexandria.pki_put(Base64.decode(publickey));// 上传公钥
-                    spUtils.saveboolean("is_havekey",true);
+                    spUtils.saveboolean("is_havekey",true); // 设置储存标识
                 }
 
                 // 初始化消息提醒

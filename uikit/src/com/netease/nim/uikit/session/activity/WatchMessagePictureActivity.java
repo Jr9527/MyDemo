@@ -485,11 +485,11 @@ public class WatchMessagePictureActivity extends TActionBarActivity {
             boolean dec_ok=false;
             f=params[0];
             secretManageFactory=new SecretManageFactory(Arithmetic.IMAGE,f);
-            dec_ok= (boolean)secretManageFactory.doDecode();// 解密并获取到头部
+            dec_ok= (boolean)secretManageFactory.doDecode();// 先进行对端解密
             LogUtil.i("WatchMessagePictureActivity","--path?？"+f.getAbsolutePath());
             if(!dec_ok){ // 本地解密
-                dec_ok= (boolean)secretManageFactory.doDecodebylocal();// 解密并获取到头部
-                dec_ok=true;
+                dec_ok= (boolean)secretManageFactory.doDecodebylocal();// 解密
+                dec_ok=true;// 在这里设置dec_ok=true 因为解密成功后返回的也是false，后续改动
             }
 
             bitmap= BitmapDecoder.decodeSampledForDisplay(f.getAbsolutePath(), false);
